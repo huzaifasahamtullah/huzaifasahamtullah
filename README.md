@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huzaifasahamtullah
+- 👋 Hi, I’m @huzaifasahamatullah
 - 👀 I’m interested in coding/cricket
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
